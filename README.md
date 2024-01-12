@@ -27,7 +27,7 @@ func main() {
   
   me.name     = "U7P4L 1N"
   me.username = "U7P4L-IN"
-  me.age      = 18
+  me.age      = "20"
   me.job      = "ai developer | web developer"
   me.hobbies  = []string{"code", "anime", "music"," singing"}
   
